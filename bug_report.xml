@@ -13,8 +13,8 @@
                      <Step Three>Add any product to cart</Step Three>
                      <Fourth step>Click in the upper right corner on the basket</Fourth step>
 
-  <Actual result>The product selected from the 'Smartphones and Gadgets' section was not added to the cart of the user's personal account"</Actual result>
-  <Expected Result>The product selected from the 'Smartphones and Gadgets' section is added to the basket of the user's personal account</Expected Result>
+  <Actual result="The product selected from the 'Smartphones and Gadgets' section was not added to the cart of the user's personal account"/>
+  <Expected Result="The product selected from the 'Smartphones and Gadgets' section is added to the basket of the user's personal account"/>
 
  
 
