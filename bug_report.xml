@@ -6,15 +6,15 @@
   <Browser>Google Chrome, Version 102.0.5005.61</Browser>
   <Device>Samsyng A50</Device>
   <Severity>Blocker</Severity>
-  <Steps to reproduce the error/>
+  <Steps_to_reproduce_the_error/>
   
-                     <Step one>Open site https://5element.by/</Step one>
-                     <Step two>Open section 'Smartphones and Gadgets'</Step two>
-                     <Step Three>Add any product to cart</Step Three>
-                     <Fourth step>Click in the upper right corner on the basket</Fourth step>
+                     <Step_one>Open site https://5element.by/</Step_one>
+                     <Step_two>Open section 'Smartphones and Gadgets'</Step_two>
+                     <Step_Three>Add any product to cart</Step_Three>
+                     <Fourth_step>Click in the upper right corner on the basket</Fourth_step>
 
-  <Actual result="The product selected from the 'Smartphones and Gadgets' section was not added to the cart of the user's personal account"/>
-  <Expected Result="The product selected from the 'Smartphones and Gadgets' section is added to the basket of the user's personal account"/>
+  <Actual_result="The product selected from the 'Smartphones and Gadgets' section was not added to the cart of the user's personal account"/>
+  <Expected_Result="The product selected from the 'Smartphones and Gadgets' section is added to the basket of the user's personal account"/>
 
  
 
